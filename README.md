@@ -1,3 +1,9 @@
+Video how it works:
+https://youtu.be/AkwUwWfwLLM
+
+My presentation:
+https://drive.google.com/file/d/1UpjRaWMyXW2z32bIrgYBCMqGMUwScT4v/view?usp=sharing
+
 # koreanapparu
 
 A new Flutter application.
